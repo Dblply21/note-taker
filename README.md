@@ -14,8 +14,7 @@ Questions
 Installation
 To install, clone the source code and run 'npm i' in your command line.
 
-Usage
-The application is used in a chrome browser with the link provided.
+Usage Usage The application is used in a chrome browser with the link provided.
 
 https://gentle-stream-25122.herokuapp.com/
 

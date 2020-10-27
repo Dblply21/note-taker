@@ -29,6 +29,6 @@ Tests
 N/A
 
 Questions
-Contact: jesusnboone@gmail.com
+Contact: rmartinez@ncrowdme.com
 
-Github Username: https://github.com/jesusnboone
+Github Username: https://github.com/Dblply21/note-taker
